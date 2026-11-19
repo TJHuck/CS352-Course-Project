@@ -2,7 +2,7 @@
 
 Project Vision
 
-A greedy backtracking algorithm that takes historical stock market data, and with a given dollar amount, will try to maximize profit over a given timeslot.
+A greedy and backtracking algorithm that takes historical stock market data, and with a given dollar amount, will try to maximize profit over a given timeslot.
 
 Timeframe: Trained on 2024 Fiscal Year, tested on 2023-2024
 
